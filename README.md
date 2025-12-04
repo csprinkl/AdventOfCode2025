@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/badge/stars%20⭐-3-yellow?style=for-the-badge)
 ![Language](https://img.shields.io/badge/language-Python-blue?style=for-the-badge)
 
-My solutions for **[Advent of Code 2025](https://adventofcode.com/2025)**
+My solutions for **[Advent of Code 2025](https://adventofcode.com/2025)**. Input text must be obtained from the website.
 
 ## How to run
 
